@@ -35,7 +35,6 @@ public class Task8 {
             System.out.println("A két szám legnagyobb közös osztója: " + number1);
 
         }
-
     }
 
 }
